@@ -1,0 +1,73 @@
+/* además de los que te ofrece Bootstrap,
+acá podés agregar los estilos que quieras */
+h1{
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+.textini{
+    padding-top: 10px;
+    font-size: 20px;
+}
+.form1{
+    background-color: white;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    /* margin-left: 20px; */
+    width: 300px;
+    margin: 0 auto;
+}
+.inputt{
+    width: 250px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+.btn1{
+    margin-top: 30px;
+    margin-right: 180px;
+}
+.geo{
+    font-size: 40px;
+    padding-top: 60px;
+}
+.viamedio{
+    color: rgb(23, 171, 240);
+}
+.plargo{
+    font-size: 20px;
+
+}
+.pbajo{
+    padding-top: 80px;
+    padding-left: 150px;
+    font-size: 10;
+}
+img{
+    /* 
+    padding-left: 80px; */
+    /* height: 300px; */
+    width: 80%;
+    /* margin: 0 auto; */
+}
+.azul{
+    margin-top: 60px;
+    padding-top: 40px;
+}
+.incluidas{
+    padding-bottom: 40px;
+}
+.icon{
+    font-size: 30px;
+}
+.final{
+    font-size: 10px;
+}
+.section1{
+    background-image: url("img/Playafondoo.jpg");
+    min-height: 450px;
+}
+
+.iniciotit {
+    padding-top: 60px;
+}
